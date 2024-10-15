@@ -1,8 +1,0 @@
-# Go to https://ionic.io/ionicons to find available icons.
-socials = [
-    { href = "https://instagram.com/rachelonfilm_", target="_blank", icon = "logo-instagram", title = "Instagram" },
-    { href = "https://uk.pinterest.com/rachiswriting/", target="_blank", icon = "logo-pinterest", title = "Pinterest" },
-    { href = "https://open.spotify.com/user/rachhhhhx3?si=bdae07af898d453a", target="_blank", icon = "musical-notes-outline", title = "Spotify" },
-    { href = "https://github.com/rachelsohzc", target="_blank", icon = "logo-github", title = "GitHub" },
-
-]
