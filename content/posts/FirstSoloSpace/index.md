@@ -21,7 +21,7 @@ It was a lovely place, but it just wasn't very 'homely':
 
 ![My old flat!](old_living.jpeg)
 
-Subtitle: Unfortunately, this is the only photo I have when we were moving out - FYI, the flat was cleaned with blood, sweat and tears three days before said photo was taken.
+Unfortunately, this is the only photo I have when we were moving out - FYI, the flat was cleaned with blood, sweat and tears three days before said photo was taken.
 
 Funny enough, I realised that this exciting feeling was quite close to how I feel when I solo travel. There is a type of growth that comes from being on your own, doing things you normally wouldn't. With my flatmate, I got comfortable in a routine. I felt less inclined to organise social events and meet up with people apart from my flatmate and my familiar friend group. Now that I've moved, I'm already looking into photography school, creating a casual frisbee group in the city, and make my first post on this blog (all things that I never considered doing before).
 
