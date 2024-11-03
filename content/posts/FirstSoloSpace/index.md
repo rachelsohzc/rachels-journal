@@ -1,11 +1,11 @@
 ---
 title: "New Chapter: My first solo space"
 cover: moving_boxes.jpeg
+lastmod: 2024-10-11
 images: 
     - new_bedroom.jpeg
     - new_living.jpeg
     - old_living.jpeg
-date: "2024-10-11"
 categories:
     - life
 ---
